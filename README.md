@@ -1,4 +1,4 @@
-# Trabajo Práctico N° 1 - Aprendizaje Profundo
+# Trabajo Práctico N° 1
 
 **Alumno:** Jorge Anibal Sardón  
 **Materia:** Inteligencia Artificial / Aprendizaje Profundo  
